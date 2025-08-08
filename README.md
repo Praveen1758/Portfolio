@@ -2,7 +2,7 @@ This is my personal developer portfolio built using **React** and **Tailwind CSS
 
 ## 🌐 Live Website
 
-[Click Here to Visit][(https://your-portfolio-link.com)](https://portfolio-roan-two-70.vercel.app/)
+[(https://your-portfolio-link.com)](https://portfolio-roan-two-70.vercel.app/)
 
 ## 🛠 Tech Stack
 
